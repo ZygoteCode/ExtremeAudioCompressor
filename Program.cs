@@ -6,7 +6,7 @@ public class Program
 {
     public static void Main()
     {
-        Console.Title = "ExtremeAudioCompressor | Made by https://github.com/GabryB03/";
+        Console.Title = "ExtremeAudioCompressor | Made by https://github.com/ZygoteCode/";
 
         if (!Directory.Exists("inputs"))
         {
